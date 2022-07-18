@@ -3,7 +3,7 @@
 </h3>
 <br>
 
-- ⚡ Fun fact: I am a registered nurse 💉 specializing in cardiovascular surgery and electrophysiology ❤️
+- ⚡ Fun fact: I am a registered nurse 💉 specialized in cardiovascular surgery and electrophysiology ❤️
 - 🌱 I’m currently learning digital artwork with my new wacom tablet! 😄
 
 ## Languages and Tools:
