@@ -15,6 +15,8 @@
   <img width="45px" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img width="45px" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg">
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
