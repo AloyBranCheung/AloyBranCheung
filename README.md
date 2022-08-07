@@ -34,6 +34,7 @@
 ## Links:
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aloysiuscheung/)
 [![gmail](https://img.shields.io/badge/Mail-1196AD?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aloysiusbrandon.cheung@mail.utoronto.ca)
+[![portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.brandoncheung.dev/)
 
 <!--
 **import-turtle/import-turtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
