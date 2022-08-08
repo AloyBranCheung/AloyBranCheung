@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brandon, a fronnend developer</h1>
+<h1 align="center">Hi 👋, I'm Brandon, a frontend developer</h1>
 <h3 align="left">I hope to one day make contributions to the health tech industry 🏥 and collaborate with others to make meaningful projects 🤝. 
 </h3>
 <br>
