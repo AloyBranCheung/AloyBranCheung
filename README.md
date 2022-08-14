@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Brandon, a frontend developer</h1>
-<h3 align="left">I hope to one day make contributions to the health tech industry 🏥 and collaborate with others to make meaningful projects 🤝. 
+<h1 align="center">Hi 👋, I'm Brandon, a software developer</h1>
+<h3 align="left">Let's collaborate and make meaningful projects 🤝. 
 </h3>
 <br>
 
-- ⚡ Fun fact: I am a registered nurse 💉 specialized in cardiovascular surgery and electrophysiology ❤️
+- ⚡ Fun fact: I was a registered nurse 💉 specialized in cardiovascular surgery and electrophysiology ❤️
 - 🌱 I’m currently learning digital artwork with my new wacom tablet! 😄
 
 ## Languages and Tools:
