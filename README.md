@@ -13,6 +13,7 @@
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img width="45px" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
   <img width="45px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
