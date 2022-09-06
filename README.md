@@ -3,7 +3,7 @@
 </h3>
 <br>
 
-- ⚡ Fun fact: I was a registered nurse 💉 specialized in cardiovascular surgery and electrophysiology ❤️
+- ⚡ Fun fact: I once competed in the Club Crews World Championships in Hungary and our team won 8 x gold medals 🥇
 - 🌱 I’m currently learning digital artwork with my new wacom tablet! 😄
 
 ## Languages and Tools:
