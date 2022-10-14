@@ -30,6 +30,8 @@
 [![gmail](https://img.shields.io/badge/Mail-1196AD?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aloysiusbrandon.cheung@mail.utoronto.ca)
 [![portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.brandoncheung.dev/)
 
+[![@importturtle's Holopin board](https://holopin.me/importturtle)](https://holopin.io/@importturtle)
+
 <!--
 **import-turtle/import-turtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
