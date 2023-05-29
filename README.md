@@ -33,7 +33,6 @@
 [![@importturtle's Holopin board](https://holopin.me/importturtle)](https://holopin.io/@importturtle)
 
 ## Fun Stats: 
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AloyBranCheung&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloyBranCheung&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
