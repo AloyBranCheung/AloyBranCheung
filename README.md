@@ -5,7 +5,6 @@
 
 - ⚡ Fun fact: I once competed in the Dragonboat Club Crews World Championships 🐉🚣‍♂️ in Hungary and our team won 8 x gold medals 🥇
 - 🌱 I’m currently learning digital artwork 🖌️ with my new wacom tablet! 😄
-- 🔭 I’m currently working on a multi-functional health 🏥 dashboard app 
 
 ## Languages and Tools:
 <p align="left">
