@@ -30,7 +30,7 @@
 [![gmail](https://img.shields.io/badge/Mail-1196AD?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:brandon.cheung.dev@gmail.com)
 [![portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.brandoncheung.dev/)
 
-[![@importturtle's Holopin board](https://holopin.me/importturtle)](https://holopin.io/@importturtle)
+[![An image of @aloybrancheung's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aloybrancheung)](https://holopin.io/@aloybrancheung)
 
 ## Fun Stats: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloyBranCheung&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
