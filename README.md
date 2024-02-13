@@ -3,6 +3,8 @@
 </h3>
 <br>
 
+I have a strong interest in working at the intersection of healthcare and technology. 
+
 - ⚡ Fun fact: I once competed in the Dragonboat Club Crews World Championships 🐉🚣‍♂️ in Hungary and our team won 8 x gold medals 🥇
 - 🌱 I’m currently learning digital artwork 🖌️ with my new wacom tablet! 😄
 
