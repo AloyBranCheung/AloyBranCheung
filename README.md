@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon, a software developer</h1>
-<h3 align="left">I have a strong interest in working at the intersection of healthcare 🏥 and technology 📱. 
-. Let's collaborate and make meaningful projects 🤝. 
+<h3 align="left">I have a strong interest in working at the intersection of healthcare 🏥 and technology 📱. Let's collaborate and make meaningful projects 🤝. 
 </h3>
 <br>
 
