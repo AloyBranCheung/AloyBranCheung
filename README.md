@@ -34,12 +34,6 @@
 [![portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://www.brandoncheung.dev/)
 
 [![An image of @aloybrancheung's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aloybrancheung)](https://holopin.io/@aloybrancheung)
-
-## Fun Stats: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloyBranCheung&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!--
 **import-turtle/import-turtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
