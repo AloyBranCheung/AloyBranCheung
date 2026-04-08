@@ -4,7 +4,7 @@
 <br>
 
 
-- 📚 Education/Learning: I have Bachelor of Science in Nursing from the University of Toronto and worked as an RN at the Toronto General Hospital 
+- 📚 Education/Learning: I have Bachelor of Science in Nursing from the University of Toronto and worked as an RN at the Toronto General Hospital. Since then, I've developed a strong interest in working in technology as a software developer. 
 - 💬 Ask me about: Cardiovascular Surgery and Electrophysiology in Nursing 
 - ⚡ Fun fact: I once competed in the Dragonboat Club Crews World Championships 🐉🚣‍♂️ in Hungary and our team won 8 x gold medals 🥇
 - 🌱 I’m currently learning digital artwork 🖌️ with my new wacom tablet! 😄
